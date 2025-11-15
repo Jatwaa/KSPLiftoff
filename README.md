@@ -6,6 +6,9 @@ KSPLiftoff is a performance, load-time, and scene-transition profiler for **Kerb
 It is not a performance mod in the traditional sense—  
 It is a **diagnostic powerhouse** that reveals EVERYTHING slowing down your KSP install.
 
+Download the zip and place in the Gamedata folder
+https://github.com/Jatwaa/KSPLiftoff/releases/download/v23.0/KSPLiftoff.zip
+
 ---
 
 # ✨ Features
