@@ -66,12 +66,6 @@ Accessible at any time with:
 - Clean and minimal UI  
 - Respects KSP's stock UI layering  
 
-### **Removed (by design):**
-- Dragging  
-- Resizing  
-- Scroll view  
-(to reduce GUI errors such as `DrawMesh requires material.SetPass before!`)
-
 ## 📌 4. Toggle.cfg – Enable/Disable Entire Mod
 If this file exists inside: GameData/KSPLiftoff/Toggle.cfg
 Contains the text option 
